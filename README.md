@@ -7,6 +7,7 @@
 ▪︎ I'm currently learning Python and intend to keep doing so in order to develop my programming skills for Machine learning and Optimization.
 
 ▪︎ You can find me in Linkedin through this link: 👇🏻
+
 https://www.linkedin.com/in/fereshten
 
 
