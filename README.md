@@ -1,12 +1,12 @@
-•My name is Fereshte, an enthusiastic civil engineer and researcher.
+▪︎ My name is Fereshte, an enthusiastic civil engineer and researcher.
 
-•I find difficulties and challenges to be fascinating.
+▪︎ I find difficulties and challenges to be fascinating.
 
-•I am a good team player and adhere to deadlines.
+▪︎ I am a good team player and adhere to deadlines.
 
-•I'm currently learning Python and intend to keep doing so in order to develop my programming skills for Machine learning and Optimization.
+▪︎ I'm currently learning Python and intend to keep doing so in order to develop my programming skills for Machine learning and Optimization.
 
-•You can find me in Linkedin through this link: 👇🏻
+▪︎ You can find me in Linkedin through this link: 👇🏻
 https://www.linkedin.com/in/fereshten
 
 
