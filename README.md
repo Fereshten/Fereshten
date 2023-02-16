@@ -5,12 +5,6 @@
 ▪︎ I am a good team player and adhere to deadlines.
 
 ▪︎ I am currently learning Python and intend to keep doing so in order to develop my programming skills for Machine learning and Optimization.
-
-▪︎ You can find me on Linkedin through this link: 👇🏻
-
-https://www.linkedin.com/in/fereshten
-
-
 <!---
 Fereshten/Fereshten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
